@@ -1,4 +1,4 @@
-# Government of Canada Information Technology Strategic Plan 2016-2020
+# Government of Canada Information Technology Strategic Plan 2016-2020 - Community Edition
 
 
 ## Table of Contents
@@ -246,76 +246,6 @@ The overarching strategic goals of **service**, **security**, **value**, **agili
 
 Five key areas of action, Service IT, Secure IT, Manage IT, Work IT and Open IT, and have been identified to achieve these strategic goals over the next four years and beyond. Each of these four key areas detail the specific actions and activities required to deliver results under the goals of service, security, value and agility. The IT strategic plan framework is illustrated below.
 
-<figure id="fig1">
-
-<figcaption class="text-center">**Figure 01: IT Strategic Plan Framework**</figcaption>
-
-![Image outlining the IT Strategic Plan Framework. Text version below:](images/fig1-eng.jpg) <details class="brdr-tp brdr-rght brdr-bttm brdr-lft"> <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Figure 01 - Text version</summary>
-
-Graphic showing the IT Strategic Plan Framework
-
-<dl>
-
-<dt>Mission</dt>
-
-<dd>Federal information technology professionals are strategic partners within our organizations, providing excellence in IT services and delivering secure, reliable and agile technology. Working collaboratively with stakeholders and across government, our efforts add value in the workplace and contribute to better programs and services for Canadians.</dd>
-
-<dt>Guiding Principles</dt>
-
-<dd>Enable a modern workplace, think “enterprise” first, use cloud computing services, meet common business needs through shared solutions, examine options.
-
-<dl>
-
-<dt>Service Goals:</dt>
-
-<dd>A responsive and innovative IT service that meets business needs and enhances the end-user experience</dd>
-
-<dt>Security Goals:</dt>
-
-<dd>A secure and resilient enterprise infrastructure that enables the trusted delivery of programs and services</dd>
-
-<dt>Value Goals:</dt>
-
-<dd>Smart investments that are both high in value and cost-effective</dd>
-
-<dt>Agility Goals:</dt>
-
-<dd>An agile, connected and high-performing workforce with modern tools</dd>
-
-</dl>
-
-</dd>
-
-<dt>Strategic Actions</dt>
-
-<dd>Service IT, Secure It, Manage IT, Work IT
-
-<dl>
-
-<dt>Service IT</dt>
-
-<dd>service management and modernization, cloud computing, information sharing</dd>
-
-<dt>Secure IT</dt>
-
-<dd>Defence in depth, trusted IT, awareness and understanding</dd>
-
-<dt>Manage IT</dt>
-
-<dd>governance, practices, innovation, sustainability</dd>
-
-<dt>Work IT</dt>
-
-<dd>IT workforce, modern workplace, digital collaboration tools</dd>
-
-</dl>
-
-</dd>
-
-</dl>
-
-</details></figure>
-
 
 ## Service IT
 
@@ -323,63 +253,12 @@ A responsive and innovative IT service that meets business needs and enhances th
 
 **Service IT** focuses on developing a modern, reliable, interoperable and sustainable IT infrastructure that allows for secure sharing of information, ultimately resulting in better internal services for government employees and improved external services for Canadians.
 
-Table 1 (below) shows the strategic actions that are currently underway, and those that represent new enterprise directions which may require additional approvals or funding to be implemented.
-
-<table class="table table-bordered table-condensed">
-
-<thead>
-
-<tr class="active">
-
-<th scope="col">**Actions underway**</th>
-
-<th scope="col">**Future actions**</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>
-
-*   Develop IT service portfolios and catalogues
-*   Report on key areas of IT system health performance
-*   Complete data centre consolidation and modernization
-*   Complete network consolidation
-*   Complete government email consolidation
-*   Adopt cloud computing services
-*   Establish a cloud service broker
-*   Offer public cloud services
-*   Build a platform for enterprise interoperability
-
-</td>
-
-<td>
-
-*   Implement enterprise IT service management tools
-*   Offer private cloud services
-*   Introduce a government mobile applications store
-*   Introduce a government API store
-*   Implement a platform for external collaboration
-*   Advance analytics capabilities
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
 
 ### Service management and modernization
 
 The more open, transparent and integrated government programs and services become, the more they will depend on IT to deliver secure and reliable services that meet agreed upon expectations.
 
-#### Develop IT service portfolios and catalogues <span class="label label-info">Actions underway</span>
+#### Develop IT service portfolios and catalogues
 
 An IT service portfolio describes services in terms of business value, including:
 
@@ -404,7 +283,7 @@ SSC and PSPC will price their services to facilitate the introduction of:
 With respect to IT security, SSC will establish expectations and provide the necessary information to partners for the IT infrastructure that it manages.
 
 
-#### Report on key areas of IT system health performance <span class="label label-info">Actions underway</span>
+#### Report on key areas of IT system health performance
 
 Key performance indicators that focus on operational excellence and delivery are critical tools in managing the delivery of IT services. Departments and agencies will put in place metrics for monitoring client satisfaction and key areas of IT system performance (e.g., security, availability, reliability and capacity).
 
@@ -415,14 +294,14 @@ For the services they provide, SSC and PSPC will:
 *   Engage their clients to resolve issues if service levels fall below targets
 
 
-#### Implement enterprise IT service management tools <span class="label label-info">Future actions</span>
+#### Implement enterprise IT service management tools
 
 IT service management (ITSM) refers to an organization’s planning, delivery, operations and control of IT services offered to clients. Departments and agencies traditionally have implemented their own ITSM tools. These tools are expensive to implement and maintain, and the diversity of tools affects overall ITSM efficiencies. Moreover, service request and trouble tickets do not flow easily within and between organizations.
 
 SSC will put in place enterprise ITSM tools and make them available to all departments and agencies. This will bring consistency to the practice of ITSM and, more importantly, reduce the cost and delays of fulfilling service requests.
 
 
-#### Complete data centre consolidation and modernization <span class="label label-info">Actions underway</span>
+#### Complete data centre consolidation and modernization 
 
 The Government of Canada operates over 500 aging data centres that support mission-critical and non-mission-critical business functions. Consolidating these data centres into fewer modern and secure data centre services is the most cost-effective way to address the government’s “rust out” issue. These enterprise data centres will be designed with the ability for backup and retention, as part of disaster recovery plans and in support of business continuity.
 
@@ -436,7 +315,7 @@ Successfully consolidating data centres depends on departments’ readiness to p
 *   These applications are supported with appropriate technologies and procedures to ensure their availability
 
 
-#### Complete network consolidation <span class="label label-info">Actions underway</span>
+#### Complete network consolidation
 
 To streamline and modernize the government’s network infrastructure and services, SSC will eliminate unused phone lines and migrate departments from outdated and costly legacy phone systems to wireless devices and VoIP service.
 
@@ -447,7 +326,7 @@ SSC will also work with departments and agencies to:
 *   Secure and reduce the number of connections to the Internet
 
 
-#### Complete government email consolidation <span class="label label-info">Actions underway</span>
+#### Complete government email consolidation
 
 Departments and agencies have traditionally operated their own email systems, leading to business and cost inefficiencies. Departments and agencies will reduce the size of employees’ mailboxes. SSC and departments and agencies will work to complete the task of consolidating email services to a common system.
 
@@ -461,7 +340,7 @@ Cloud computing eliminates the need to buy hardware or software. This allows gov
 
 In the context of cloud, enterprise-wide and shared solutions, departments and agencies have a duty to apply safeguards that will enable them to retain uncompromised control over information they have collected or created.
 
-#### Adopt cloud computing services <span class="label label-info">Actions underway</span>
+#### Adopt cloud computing services
 
 TBS will publish the Government of Canada’s Cloud Adoption Strategy to guide the adoption of cloud computing services in a cost effective and secure manner. Departments and agencies will choose cloud computing services from a number of options that will include extensions to existing legacy solutions and private and public cloud offerings. In making these choices, departments and agencies will need to consider:
 
@@ -480,7 +359,7 @@ Departments and agencies will consider solutions that employ Software as a Servi
 To ensure Canada’s sovereign control over its data, departments and agencies will adopt the policy that all sensitive or protected data under government control will be stored on servers that reside in Canada. Departments and agencies will evaluate risks based on an assessment of data sensitivity, and apply the appropriate security controls for cloud services.
 
 
-#### Establish a cloud service broker <span class="label label-info">Actions underway</span>
+#### Establish a cloud service broker
 
 A cloud service broker (CSB) functions as a bridge between organizations and cloud providers. Using a CSB makes cloud services less expensive, easier, safer and more productive for organizations to navigate, integrate, consume and extend cloud services, particularly when services span multiple and diverse providers.
 
@@ -489,35 +368,23 @@ A CSB’s key functions are procurement, billing, security accreditation, networ
 SSC will create and operate a “light-touch” CSB role that includes all these functions, including access to SaaS, PaaS, IaaS and marketplace (online storefront) services.
 
 
-#### Offer public cloud services <span class="label label-info">Actions underway</span>
+#### Offer public cloud services
 
 A public cloud refers to a cloud environment shared by multiple tenants that are isolated from each other. SSC will direct its efforts toward acquiring and brokering multiple enterprise-grade public cloud services. Several of these will have a presence in Canada with the capability to store and process protected data. Public cloud services will be the priority choice for departments and agencies when choosing a cloud deployment model.
 
 
-#### Offer private cloud services <span class="label label-info">Future actions</span>
+#### Offer private cloud services
 
 A private cloud has the attributes of a public cloud, except that the services are for use by a single enterprise, in this case the Government of Canada. The cloud’s hardware, storage and networks are dedicated to a single client and typically require capital investment.
 
 Private clouds can be implemented as pre-engineered commercial offerings or as tailored solutions engineered and assembled by staff. SSC will direct its efforts toward acquiring the former, with the latter being implemented when unique requirements arise. Departments and agencies will use private clouds where needs cannot be met by public clouds.
-
-<figure>
-
-<figcaption class="text-center">**Figure 02: Private cloud services**</figcaption>
-
-![Image outlining the relationships between cloud services, broker and legacy. Text version below:](images/fig2-eng.jpg) <details class="brdr-tp brdr-rght brdr-bttm brdr-lft"> <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Figure 02 - Text version</summary>
-
-Image outlining the relationships between cloud services, broker and legacy.
-
-Broker links to Public Clouds, GC Private Cloud, and Legacy
-
-</details></figure>
 
 
 ### Information sharing
 
 Interoperable platforms are the backbone of data and information sharing, big data analytics and collaboration. By seizing on these opportunities, government can create a modern workplace in which employees have the enabling tools needed to keep pace with the expectations of the Canadians and businesses they serve.
 
-#### Build a platform for enterprise interoperability <span class="label label-info">Actions underway</span>
+#### Build a platform for enterprise interoperability 
 
 Enterprise interoperability fosters openness and collaboration. To strengthen digital business and promote integrated business services among enterprise systems, TBS, PSPC, and SSC will create a set of modern integration tools called the GC Interoperability Platform. This platform will act as an information broker, enabling the exchange of data and information between back-office enterprise systems and organizational applications.
 
@@ -526,17 +393,17 @@ The platform will feature a service bus and a message fabric, built and operated
 Government application programming interfaces (GAPIs), a single language used across siloed business systems, will allow for interoperable business by using common information exchange standards. TBS will lead the creation of common and approved GAPIs from “single sources of the truth” to support information sharing within government. TBS will also establish governance for enterprise interoperability and information sharing.
 
 
-#### Introduce a government mobile applications store <span class="label label-info">Future actions</span>
+#### Introduce a government mobile applications store
 
 Canadians and business want to use mobile applications to interact with government data and obtain government services. TBS will lead the creation of mobile application stores that enable digital distribution of easy-to-use and trusted mobile applications.
 
 
-#### Introduce a government API store <span class="label label-info">Future actions</span>
+#### Introduce a government API store
 
 An application programming interface (API) is a set of routines, protocols and tools for building software applications. An API specifies how software components should interact and how APIs are to be used in programming user interfaces. APIs are increasingly becoming the way to facilitate sharing of government data and information. TBS will lead the creation of an API store to support information sharing with Canadians, business and other entities external to government.
 
 
-#### Implement a platform for external collaboration <span class="label label-info">Future actions</span>
+#### Implement a platform for external collaboration
 
 Technology makes it easier for citizens, academia, scientists, businesses and government to share ideas and information and to collaborate with one another. TBS will lead the establishment of an external collaboration service provider to host departments and to provide them with a dedicated workspace and computing storage for unclassified and transitory data. Cloud pilot projects will test-drive requirements and determine the most suitable platform to meet government business, information and security needs.
 
@@ -545,7 +412,7 @@ TBS, in collaboration with departments, agencies, PSPC and SSC, will provide dep
 While meeting the government’s requirements for security classification, disposition and recordkeeping, the platform will support an array of functions such as document sharing, co-authoring, tasks, meetings and discussions.
 
 
-#### Advance analytics capabilities <span class="label label-info">Future actions</span>
+#### Advance analytics capabilities
 
 Business intelligence involves creating, aggregating, analyzing and visualizing data to inform and facilitate business management and strategy. Analytics is about asking questions and refers to all the ways in which data can be broken down, compared and examined for trends. “Big data” is the technology that stores and processes data and information in datasets that are so large or complex that traditional data processing applications can’t perform analysis. Big data can make available almost limitless amounts of information, improving data-driven decision-making and expanding open data initiatives.
 
@@ -556,59 +423,14 @@ TBS, working with departments and agencies, will lead the development of enterpr
 
 A secure and resilient enterprise infrastructure that enables the trusted delivery of programs and services
 
-**Secure IT** focuses on safeguarding sensitive government data and ensuring the Canadians accessing online services can trust the government with their personal information. The strategic actions outlined below align with the Communications Security Establishment’s Top 10 security practices and with industry best practices. Departments and agencies will use the CSE Top 10 to prioritize their IT security actions that will support the elimination of active cyber threats on government networks. Table 2 (below) shows the strategic actions that are currently underway, and those that represent new enterprise directions that may require additional approvals or funding to be implemented.
-
-<table class="table table-bordered table-condensed">
-
-<thead>
-
-<tr class="active">
-
-<th scope="col">**Actions underway**</th>
-
-<th scope="col">**Future actions**</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>
-
-*   Protect web transactions to and from external-facing websites
-*   Implement a trusted digital identity for people accessing internal government networks and systems
-
-</td>
-
-<td>
-
-*   Secure the government’s network perimeter
-*   Implement endpoint security profiles
-*   Implement an enterprise approach to vulnerability and patch management
-*   Manage and control administrative privileges
-*   Implement an improved cyber authentication service
-*   Implement a secure communication services for classified information
-*   Implement enterprise data loss prevention
-*   Enable comprehensive understanding of endpoint devices
-*   Enhance awareness of enterprise cyber security threat and risk environment
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+**Secure IT** focuses on safeguarding sensitive government data and ensuring the Canadians accessing online services can trust the government with their personal information. The strategic actions outlined below align with the Communications Security Establishment’s Top 10 security practices and with industry best practices. Departments and agencies will use the CSE Top 10 to prioritize their IT security actions that will support the elimination of active cyber threats on government networks. 
 
 
 ### Defence in depth
 
 Canada’s competitive advantage, our economic prosperity and our national security depend upon government adopting new and accessible technologies to better serve Canadians and public service employees. If not managed well, however, making information and data more open could risk exposing networks, systems, devices and data, including personal information, vulnerable to malicious or accidental breaches. This is just one reason why strengthening IT security is paramount.
 
-#### Secure the government’s network perimeter <span class="label label-info">Future actions</span>
+#### Secure the government’s network perimeter
 
 Though the Internet is a game-changer for the ease with which public service employees can access and share information, it also brings considerable risk. Malicious software (malware) can be unknowingly downloaded from websites or through email and seriously compromise IT systems and disrupt government operations.
 
@@ -621,7 +443,7 @@ TBS, CSE and SSC will establish additional Trusted Interconnection Points (GC-TI
 These actions will reduce the risk of rogue, ad hoc or unauthorized Internet connections to and from government networks. They will also enhance the government’s ability to defensively monitor data entering or exiting the government perimeter, and so ensure maximum protection of government information assets.
 
 
-#### Implement endpoint security profiles <span class="label label-info">Future actions</span>
+#### Implement endpoint security profiles
 
 Malicious parties frequently seek out exposed or misconfigured Internet-facing services or equipment to gain access to IT systems or information. Endpoint devices such as laptop computers, tablets and servers provide a doorway for these kinds of threats. Malware, rootkits and phishing can lead to the loss and compromise of government data, including personal information. Operating systems and applications that use default configuration settings typically include unnecessary components, services and options. These default settings are well known and easily discovered using automated tools.
 
@@ -630,12 +452,12 @@ In the enterprise context, weaknesses and misconfigurations in an organization�
 Recognizing the risk posed by misconfigured endpoint devices, SSC, in consultation with TBS and CSE, will develop endpoint device profiles. These standardized profiles will be based on security best practices, and will represent securely configured operating systems and applications. The profiles will be validated and refreshed regularly to update their security configuration. Additional security controls, such as host-based intrusion prevention and application whitelisting – a computer administrative practice used to prevent unauthorized programs from running – will be implemented to further ensure the integrity of systems and information.
 
 
-#### Implement an enterprise approach to vulnerability and patch management <span class="label label-info">Future actions</span>
+#### Implement an enterprise approach to vulnerability and patch management
 
 The government must ensure that vulnerabilities are identified and remediated quickly to minimize the risk of future intrusion and potential loss. TBS and SSC will implement an enterprise-wide vulnerability and patch management capability to systematically detect and remediate vulnerabilities. Departments and agencies will implement these tools and processes, meet standard timelines for remediation, and ensure quick response times for emergency or critical patch deployment.
 
 
-#### Manage and control administrative privileges <span class="label label-info">Future actions</span>
+#### Manage and control administrative privileges
 
 Organizations also need to manage internal risks to the security of their IT. Privileged accounts (such as local or domain administrators and other accounts with elevated access) are the most powerful accounts in any organization and are also the most targeted by malicious parties that wish to compromise government information.
 
@@ -651,7 +473,7 @@ Departments and agencies will also implement measures to manage and control the 
 
 Establishing identity is fundamental to most government interactions that involve exchanging information or permitting access to sensitive resources.
 
-#### Protect web transactions to and from external-facing websites <span class="label label-info">Actions underway</span>
+#### Protect web transactions to and from external-facing websites
 
 
 
@@ -670,14 +492,14 @@ As more Canadians interface electronically with the Government of Canada, the am
 TBS will establish an “HTTPS everywhere” standard that will require departments and agencies to use the HTTPS protocol for all external-facing websites and cloud services. This protocol, along with approved encryption algorithms, will ensure the secure transmission of data online and the delivery of secure web services.
 
 
-#### Implement an improved cyber authentication service <span class="label label-info">Future actions</span>
+#### Implement an improved cyber authentication service
 
 Currently, Canadians and others external to the government can securely access government services online using a trusted credential. The credential (i.e., a username and password) is either issued by the Government of Canada’s GCKey service or by a private sector organization that has partnered with SecureKey Technologies to enable their customers to use their online credentials (such as card numbers or user names and passwords) to access Government of Canada services.
 
 This mandatory solution for all online government applications offered to the public is cost-effective, secure and convenient for users. Still, improvements to the existing cyber authentication service are needed to support new initiatives such as Canada’s Digital Interchange. Building on the existing solution and maintaining a pan-Canadian approach, TBS and SSC will develop a renewed cyber authentication service. This service will meet current business needs yet support enhanced functionality required for future federated identity and digital service delivery initiatives.
 
 
-#### Implement a trusted digital identity for people accessing internal government networks and systems <span class="label label-info">Actions underway</span>
+#### Implement a trusted digital identity for people accessing internal government networks and systems
 
 TBS will complete an enterprise-wide approach to internal identity, credential and access management to:
 
@@ -689,7 +511,7 @@ Under TBS leadership, SSC will implement common internal identity and credential
 
 Departments and agencies will migrate applications to this new enterprise service when their applications are upgraded as part of regular asset life cycle maintenance.
 
-#### Implement a secure communication service for classified information <span class="label label-info">Future actions</span>
+#### Implement a secure communication service for classified information
 
 Every day, departments and agencies create, store and process classified information. Failure to protect this information could lead to:
 
@@ -702,7 +524,7 @@ Although several special environments allow some organizations to safely share c
 SSC, under the strategic direction of TBS and supported by CSE, will implement a single, common and integrated enterprise-wide secret-level network to enable classified data to be securely transmitted, stored and processed across departments and agencies. Classified voice and mobile capabilities will also be implemented for users who need to regularly discuss classified information.
 
 
-#### Implement enterprise data loss prevention <span class="label label-info">Future actions</span>
+#### Implement enterprise data loss prevention
 
 With its responsibility for maintaining large amounts of sensitive data, the government needs to minimize the risk of unauthorized disclosure. TBS will establish a framework to support an enterprise approach to data loss prevention. Preventing the unauthorized transfer or release of sensitive information involves first identifying sensitive data. Unauthorized data flows and operations will be monitored, detected and blocked. SSC, with departments and agencies, will implement the framework.
 
@@ -712,7 +534,7 @@ With its responsibility for maintaining large amounts of sensitive data, the gov
 Understanding the assets within an IT environment is essential to knowing what to protect and enables the government to be more proactive and efficient when responding to threats and attacks.
 
 
-#### Enable comprehensive understanding of endpoint devices <span class="label label-info">Future actions</span>
+#### Enable comprehensive understanding of endpoint devices
 
 It is critical to be able to proactively and accurately determine the status of all endpoint devices, what is running on them and who is accessing them. In this way, endpoint devices that pose a risk to the enterprise can be identified, allowing the government to become more effective when responding to threats and attacks.
 
@@ -723,7 +545,7 @@ Under TBS leadership, SSC, and departments and agencies will acquire and impleme
 *   Patch installations
 
 
-#### Enhance awareness of enterprise cyber threat and risk environment <span class="label label-info">Future actions</span>
+#### Enhance awareness of enterprise cyber threat and risk environment
 
 Departments and agencies are accountable for managing cyber risks to their particular program areas. However, as the government adopts an enterprise approach and programs and services become more integrated, it will be imperative that cyber risks are also managed at the enterprise level.
 
@@ -738,57 +560,14 @@ The continuous monitoring of the cyber-threat and -risk landscape will inform de
 
 Smart investments that are both high in value and cost-effective
 
-**Manage IT** addresses the management and governance of IT across government in a way that ensures IT investments take advantage of economies of scale, demonstrate value and are sustainable. Table 3 (below) shows the strategic actions that are currently underway, and those that represent new enterprise directions which may require additional approvals or funding to be implemented.
+**Manage IT** addresses the management and governance of IT across government in a way that ensures IT investments take advantage of economies of scale, demonstrate value and are sustainable. 
 
-<table class="table table-bordered table-condensed">
-
-<thead>
-
-<tr class="active">
-
-<th scope="col">**Actions underway**</th>
-
-<th scope="col">**Future actions**</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>
-
-*   Establish enterprise IT governance
-*   Develop methods to prioritize investments in legacy and transformation initiatives
-*   Evolve IT management practices, processes and tools
-*   Develop enterprise architectures for business and information
-*   Adopt agile approaches to implementing IT solutions
-
-</td>
-
-<td>
-
-*   Document roles and responsibilities for IT and IT security
-*   Lead innovation
-*   Adopt modern and flexible business models
-*   Ensure IT infrastructure sustainability
-*   Rationalize investments
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 ### Governance
 
 To fully embrace an enterprise IT approach, departments and agencies need clear direction on agreed-upon priorities and approved approaches, which comes from an authoritative source. Oversight is required to ensure sustained progress in advancing shared objectives. Roles and responsibilities must be documented for effective implementation of an IT governance structure.
 
-#### Establish enterprise IT governance <span class="label label-info">Actions underway</span>
+#### Establish enterprise IT governance
 
 Adopting an enterprise approach requires sound governance structures that support clear and informed decision-making. The Deputy Minister and Assistant Deputy Minister Committees on Enterprise Priorities and Planning (CEPP) will be the governance and oversight bodies for all government IT investments.
 
@@ -806,9 +585,7 @@ All the business needs of government will be managed according to IT governance 
 *   See that departments and agencies avoid duplication or unnecessary overlap
 
 
-#### Develop methods to prioritize investments in legacy and transformation initiatives <span class="label label-info">Actions underway</span>
-
-
+#### Develop methods to prioritize investments in legacy and transformation initiatives
 
 
 The Deputy Minister and Assistant Deputy Minister Committees on Enterprise Priorities and Planning (CEPP) endorses four IT investment principles which guide departmental investment strategies ensuring they reflect business and enterprise priorities.
@@ -820,14 +597,12 @@ The Deputy Minister and Assistant Deputy Minister Committees on Enterprise Prior
 
 
 
-
-
 SSC and PSPC will develop and define methods with which to measure the progress of transformation initiatives, aligning them with key benefits. Progress must be reported clearly and reliably.
 
 SSC, supported by TBS and departments and agencies, and under the oversight and direction of CEPP, will develop a methodology to prioritize and allocate funding for investments in legacy and transformation initiatives. SSC will also develop a clear process to address funding deficiencies. Methodologies and processes will be refined periodically to ensure accurate determination and reporting of savings. CEPP endorses a principles-based approach to guide departmental investment strategies ensuring they reflect business and enterprise priorities. New or significant changes to IT and IT-enabled projects will be subject to consultation with TBS and approval by CEPP.
 
 
-#### Document roles and responsibilities for IT and IT security <span class="label label-info">Future actions</span>
+#### Document roles and responsibilities for IT and IT security
 
 Departments and agencies have a role in managing and delivering IT, as described in Appendix D. TBS will work to elaborate and document the roles and responsibilities of departments and agencies, SSC, PSPC and central agencies for delivering IT services and implementing the government’s IT strategic plan so that they are clearly defined, communicated and executed. TBS will also continue to provide clear direction to departments and agencies on IT security roles and responsibilities. These include security-control objectives and other security-related requirements.
 
@@ -836,7 +611,7 @@ Departments and agencies have a role in managing and delivering IT, as described
 
 Sound IT management starts with consistent planning based on documented descriptions of the enterprise. With an understanding of what’s in play, IT managers can adopt solutions that best address their business needs.
 
-#### Evolve IT management practices, processes and tools <span class="label label-info">Actions underway</span>
+#### Evolve IT management practices, processes and tools 
 
 CIOs should plan and execute departmental IT plans in a way that aligns with the government’s IT strategic plan and overall enterprise modernization priorities. Important tools to support them include:
 
@@ -860,7 +635,7 @@ TBS will also provide policy guidance to assist departments and agencies:
 *   Implement good project management practices in the area of complex IT projects
 
 
-#### Develop enterprise architectures for business and information <span class="label label-info">Actions underway</span>
+#### Develop enterprise architectures for business and information
 
 Describing the enterprise allows us to understand how government processes work. Enterprise architectures show where there are similarities and differences in business units, programs and departmental boundaries.
 
@@ -875,7 +650,7 @@ Understanding enterprise architecture enables effective decision-making about IT
 Working with functional communities, TBS will lead the development of an enterprise architecture framework.
 
 
-#### Adopt agile approaches to implementing IT solutions <span class="label label-info">Actions underway</span>
+#### Adopt agile approaches to implementing IT solutions 
 
 Departments and agencies will take advantage of existing multi-departmental contracts when investing in solutions to meet common needs. In cases where multi-departmental contracts or tools do not meet identified business requirements, departments and agencies will contact TBS to discuss other options. Departments and agencies are required to keep TBS up to date on their investments and plans.
 
@@ -892,12 +667,11 @@ Departments and agencies will promote a learning culture that allows IT solution
 
 The Government of Canada is transforming its IT to better serve Canadians, with innovation key to delivering on this agenda. Successful innovation combines creativity with process to transform novel ideas into business enablers that deliver tangible results. It embraces experimentation and intelligent risk taking, bringing new approaches which address existing problems and leverage future opportunities. Innovation calls for collaboration both with new and traditional partners, identifying and breaking down any barriers that prevent us from achieving maximum results.
 
-#### Lead innovation <span class="label label-info">Future actions</span>
-
+#### Lead innovation
 The role of CIOs is evolving from service provider to full strategic business partner. These leaders are innovation agents, business enablers, and catalysts for enterprise transformation. Departmental CIOs will be strategic business partners who bring IT innovations to the table to address the organization’s business needs.
 
 
-#### Adopt modern and flexible business models <span class="label label-info">Future actions</span>
+#### Adopt modern and flexible business models 
 
 To achieve a better balance between demand and capacity, SSC and PSPC will fully adopt cost-recovery business models for all IT services. As an enterprise, departments and agencies will achieve better business value by sharing IT resources, capacity and capabilities.
 
@@ -906,12 +680,12 @@ To achieve a better balance between demand and capacity, SSC and PSPC will fully
 
 Ensuring that IT investments are sustainable and meet business needs will enable departments and agencies to deliver better services to Canadians.
 
-#### Ensure IT infrastructure sustainability <span class="label label-info">Future actions</span>
+#### Ensure IT infrastructure sustainability 
 
 A sustainable funding model must take into account the regular renewal cycle of IT infrastructure assets with the appropriate level of investment. TBS and SSC will explore alternative financial models to address IT renewal.
 
 
-#### Rationalize investments <span class="label label-info">Future actions</span>
+#### Rationalize investments 
 
 In keeping with CEPP investment principles, spending on new or significant changes to certain IT and IT-enabled projects will be subject to consultation with TBS and approval by CEPP. This includes spending on systems for common business domains such as:
 
@@ -930,59 +704,14 @@ Departments and agencies will take an enterprise approach to managing their port
 
 An agile, connected and high-performing workforce with modern tools
 
-**Work IT** is focused on building a high performing IT workforce and ensuring that public service employees have a modern workplace and the IT tools they need to do their jobs. Table 4 (below) shows the strategic actions that are currently underway, and those that represent new enterprise directions which may require additional approvals or funding to be implemented.
-
-<table class="table table-bordered table-condensed">
-
-<thead>
-
-<tr class="active">
-
-<th scope="col">**Actions underway**</th>
-
-<th scope="col">**Future actions**</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>
-
-*   Invest in executive talent management
-*   Enhance workforce planning
-*   Enable career development
-*   Modernize workplace technology devices
-*   Support a mobile workforce
-*   Provide Wi-Fi access
-*   Provide desktop videoconferencing to employees
-*   Implement managed print services
-*   Advance digital collaboration
-
-</td>
-
-<td>
-
-*   Promote gender parity
-*   Promote digital literacy and collaboration
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+**Work IT** is focused on building a high performing IT workforce and ensuring that public service employees have a modern workplace and the IT tools they need to do their jobs. 
 
 ### IT workforce
 
 Successfully delivering IT services requires a skilled, agile, connected and high-performing IT workforce that combines a knowledge of business and technology. IT professionals need to be able to keep pace with the speed at which technology is evolving. To enable a high-performing, strategic IT workforce will require continued investment in career and talent management.
 
 
-#### Invest in executive talent management <span class="label label-info">Actions underway</span>
+#### Invest in executive talent management
 
 Talent management reviews and succession planning identify key skills gaps and mitigation strategies for the enterprise as a whole. Such efforts are supported by the 2016 Management Accountability Framework, which includes talent management indicators for CIOs and IT assistant deputy ministers.
 
@@ -995,7 +724,7 @@ Departments and agencies will support enterprise-wide IT executive talent manage
 *   Encouraging CIOs to explore diversified career paths, both within and outside IT organizations.
 
 
-#### Enhance workforce planning <span class="label label-info">Actions underway</span>
+#### Enhance workforce planning
 
 Building on efforts to better understand the workforce in the IT community, departments are developing three-year departmental workforce strategies. These strategies will serve as a foundation for workforce planning. To support successful business outcomes, they will align with the departments’ human resources plans and the government’s enterprise approach for IT.
 
@@ -1010,7 +739,7 @@ TBS will work with departments and agencies to explore new approaches to utilize
 TBS will continue to evolve tools to support workforce planning and to project workforce requirements in the future. One such example is IT Community Generics, a suite of tools to help CIOs and IT managers direct IT resources in a way that reflects best practices in IT organizational design. IT Community Generics facilitate an enterprise approach to managing IT human resources.
 
 
-#### Enable career development <span class="label label-info">Actions underway</span>
+#### Enable career development
 
 IT professionals need to be well positioned to support CIOs in their evolving role as strategic business enablers and partners. Competency tools, available through IT Community Generics, support computer science (CS) career development. Career-development materials, including career-related research on GCpedia, will further enable IT professionals to identify career paths and required competencies.
 
@@ -1019,7 +748,7 @@ TBS will lead the development of an internal skills inventory of the public serv
 Working with government and private sector stakeholders, including industry associations, TBS will share best practices, identify trends and support IT career development. The Canada School Public Service will design new learning products that target new and non-traditional skills for IT professionals.
 
 
-#### Promote gender parity <span class="label label-info">Future actions</span>
+#### Promote gender parity
 
 An innovative workplace demands a workforce that accurately represents the full breadth of the Canadian talent pool. Currently, IT remains predominantly a male domain. Recent data reveals that women occupy only 27% of all CS positions in the Government of Canada. What’s more, the percentage of women in younger cohorts has diminished steadily to a low of 13% in the under-30 age group.
 
@@ -1034,7 +763,7 @@ Initiatives such as the Women in Communications and Technology Public Sector Net
 
 Technology is a key enabler of a modern workplace that supports collaboration, innovation and mobility. Ensuring that smart technology provides a consistent, accessible workplace experience throughout government will improve how all employees work together and deliver better services to Canadians.
 
-#### Modernize workplace technology devices <span class="label label-info">Actions underway</span>
+#### Modernize workplace technology devices
 
 Workplace technology devices are essential for a modern workplace and a collaborative, mobile workforce, consistent with the Blueprint 2020 vision. TBS will work closely with departments and agencies to ensure that workplace technology devices meet the Blueprint 2020 vision.
 
@@ -1045,24 +774,24 @@ SSC will continue to consolidate contracts and procurement activities to improve
 Departments and agencies are responsible for support and maintenance of workplace technology devices. They will explore support models such as self-service and regional clusters, to reduce costs while promoting consistent user experience and service expectations.
 
 
-#### Support a mobile workforce <span class="label label-info">Actions underway</span>
+#### Support a mobile workforce
 
 The Government of Canada is committed to and encourages an open and collaborative work environment where mobile devices are used. Departments and agencies will balance the cost of these devices, and their support, against the business value achieved.
 
 
-#### Provide Wi-Fi access <span class="label label-info">Actions underway</span>
+#### Provide Wi-Fi access
 
 Access to wireless data networks is critical for employee productivity. The broader deployment of Wi-Fi may also reduce costs by displacing the need to provide wireline infrastructure, which is expensive to install and maintain.
 
 TBS and SSC will put in place the necessary services and policies to support Wi-Fi usage. Departments and agencies will implement Wi-Fi access to data networks for all employees within common areas and their workspaces, where the job requires mobility. Departments and agencies will migrate to Wi-Fi-capable devices and support Wi-Fi access to local area networks for registered users, as well as Wi-Fi guest-network access where security requirements are appropriate.
 
 
-#### Provide desktop videoconferencing to employees <span class="label label-info">Actions underway</span>
+#### Provide desktop videoconferencing to employees
 
 Increased access to videoconferencing supports the collaborative operations of virtual teams across organizations, time zones and regions. Departments and agencies will complete the re-engineering of their in-house videoconferencing facilities to enable full interconnectivity across the government. Where appropriate, and where the user profile supports such functionality, SSC will also create the network and bandwidth capacity needed to support videoconferencing at desktops.
 
 
-#### Implement managed print services <span class="label label-info">Actions underway</span>
+#### Implement managed print services
 
 The Government of Canada will continue to improve the sustainability of workplace operations by completing the implementation of the Office of Greening Government Operations’ strategy for printing. Departments and agencies will achieve an 8:1 average ratio of office employees to printing units. Departments and agencies will also use SSC’s managed print services to facilitate improvements to their organizations’ environmental efficiencies in imaging, specifically, reduced energy costs and paper consumption and proper disposal of electronic equipment.
 
@@ -1071,7 +800,7 @@ The Government of Canada will continue to improve the sustainability of workplac
 
 Digital collaboration refers to the skills and mindset needed to work effectively in an open digital environment. Tools that respect government requirements such as accessibility, privacy, security, information management and official languages will be used to promote digital collaboration.
 
-#### Promote digital literacy and collaboration <span class="label label-info">Future actions</span>
+#### Promote digital literacy and collaboration
 
 Digital literacy goes beyond basic computer skills. And it’s essential to make the most of investments already made in IT infrastructure, devices and tools and to ensure that IT helps workforce productivity rather than detracts from it.
 
@@ -1086,7 +815,7 @@ To promote a culture of openness and collaboration, departments and agencies wil
 Senior leaders’ adoption of GCTools will be critical to successfully integrating digital collaboration into their organizations and to demonstrating the full benefits of these collaborative tools. Leaders will adopt an “open first” attitude toward content creation and encourage their employees to participate in shared-knowledge and collaborative digital spaces, other than where security requirements prohibit this.
 
 
-#### Advance digital collaboration <span class="label label-info">Actions underway</span>
+#### Advance digital collaboration
 
 
 The Ambassadors Network consists of volunteers from various departments and regions that provide support to teams on the use of GCpedia and GCconnex.
@@ -3080,16 +2809,3 @@ GC ICAM is a critical, foundational element of the overall GC Enterprise Securit
 </tbody>
 
 </table>
-
-
-## Appendix D: Roles and Responsibilities
-
-**The Government of Canada** is made up of over 100 separate organizations that deliver a broad range of programs and services to individuals and businesses in Canada and abroad. Its programs and services are categorized into four spending areas: Economic Affairs, Social Affairs, International Affairs, and Government Affairs. IT supports the government in delivering these external-facing programs and services.
-
-**The Secretary of the Treasury Board** sets government-wide strategic direction for IT, with input from organization deputy heads, chief information officers (CIOs) and other stakeholders. The responsibility for delivering IT services is shared between government organizations and central IT service providers such as Shared Services Canada (SSC) and Public Services and Procurement Canada (PSPC).
-
-**Shared Services Canada** has the mandate to provide data centres, networks and email services to the largest government departments. Smaller government organizations receive these services on an optional basis. SSC, the Communications Security Establishment (CSE) and Public Safety Canada have a shared responsibility for cyber and IT security, with oversight provided by TBS. In addition, SSC is responsible for procuring hardware and software, including security software for workplace technology devices – the authorized physical devices and related software used in government office work. Departments and agencies are responsible for workplace technology device deployment, support and asset life cycle management. SSC spends $2 billion annually on the services it provides, portions of which it cost-recovers from federal organizations.
-
-**Public Services and Procurement Canada** provides IT services supporting back office services such as human resource management systems, pay and pension, enterprise records and document management, and financial systems and services. SSC and PSPC jointly support federal organizations in procuring IT goods and services.
-
-**Treasury Board Secretariat**, supported by the Chief Information Officer Branch (CIOB), develops strategy and sets government-wide policy and mandatory requirements for IT and cyber security, and provides guidance on implementing the direction through policy implementation notices.
