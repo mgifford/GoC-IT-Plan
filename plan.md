@@ -90,9 +90,9 @@ Government departments spend **$3 billion** annually on applications, computing 
 
 The Government of Canada is made up of more than 100 separate organizations that deliver a broad range of programs and services to individuals and businesses in Canada and abroad. IT supports the government in delivery of these programs and services. In the past, many operated their own IT infrastructure and services to carry out their respective mandates. Increasingly, the disadvantages of this approach have become apparent. Inefficiency, duplication and IT-systems incompatibility have hindered the ability of government decision-makers to get the high-quality, real-time information they need to deliver excellent results.
 
-A whole-of-government, or “enterprise” approach to IT infrastructure and service delivery is addressing these short-comings. The responsibility for delivering IT services to core departments and agencies is now shared between central providers such as Shared Services Canada (SSC) and Public Services and Procurement Canada (PSPC). Cyber and IT security is the shared responsibility of SSC, the Communications Security Establishment (CSE) and Public Safety Canada. The Chief Information Officer Branch (CIOB), of Treasury Board Secretariat (TBS) supports Treasury Board by developing strategy, setting government-wide policy for IT and cybersecurity, and providing implementation guidance.
+A whole-of-government, or “enterprise” approach to IT infrastructure and service delivery is addressing these short-comings. The responsibility for leading IT services to core departments and agencies is now shared between central providers such as Shared Services Canada (SSC) and Public Services and Procurement Canada (PSPC). Facilitating good IT security practices is the shared responsibility of SSC, the Communications Security Establishment (CSE) and Public Safety Canada. The Chief Information Officer Branch (CIOB), of Treasury Board Secretariat (TBS) supports Treasury Board by developing strategy, setting government-wide policy for IT and cybersecurity, and providing implementation guidance.
 
-Today’s business environment continues to be characterized by disruption and the imperative to do more, faster, with less. In our digital era, individuals, business and others who interact with government have high standards for the services they receive. The Government of Canada is transforming how government works so that it better reflects the values and expectations of its clients.
+Today’s business environment continues to be characterized by disruption and the imperative to do more, faster, with less. In our digital era, individuals, business and others who interact with government have high standards for the services they receive. Citizens also expect an increasingly porus and transparent government, where they can engage directly with the public sector and it's work. The Government of Canada is transforming how government works so that it better reflects the values and expectations of Canadians.
 
 This IT strategic plan supports the continued transformation to enterprise IT infrastructure and service delivery and proposes to address these and other challenges by responding to the following key drivers:
 
@@ -101,49 +101,54 @@ This IT strategic plan supports the continued transformation to enterprise IT in
 *   Security
 *   The enterprise approach
 *   Aging IT and sustainability
+*   Openness and transparency
 
 ### Citizen expectations
 
-Canadians want and deserve technology that provides the best service to them, when and where they need it, and in a client-centric manner. They want to be assured that departments and agencies are using the best available data to make evidence-based decisions with respect to policies, programs and services that affect everyone. They value government that is open with its data and other business information yet protects their privacy.
+Canadians want and deserve technology that provides the best service to them, when and where they need it, and in a client-centric manner. They want to be assured that departments and agencies are using the best available data to make evidence-based decisions with respect to policies, programs and services that affect everyone. They value government that is open with its data and other business information yet protects their privacy. Canadians expect a modern share-first approach to IT, no tax-payer wants to pay for something to be implemented more than once. 
 
 
 ### Workplace and workforce evolution
 
-Internal clients, including employees, expect modern and effective tools that connect up to make their day-to-day work efficient and provide value-added to their efforts. They demand a digital experience that is optimized, integrated and diversely client-centric. Employees in a modern workplace need digital tools that promote collaboration, information sharing and increased productivity.
+Internal clients, including employees, expect modern and effective tools that connect up to make their day-to-day work efficient and provide value-added to their efforts. They demand a digital experience that is optimized, integrated and diversely client-centric. Employees in a modern workplace need digital tools that promote collaboration, information sharing and increased productivity. Many younger employees will also expect to be able to engage in internet based communities like GitHub to gather best practices, provide feedback to the community, share enhancements and build better tools which are available to everyone.
 
 
 ### Security
 
-Cybersecurity is an ever-evolving aspect of any information technology strategy. While bringing important opportunities, the consolidation of systems leads to a greater attack surface that requires enhanced security measures to minimize risks. Inconsistent management of government networks and the security profiles of government endpoint devices – computer devices capable of connecting to the Internet – also has the potential to increase the risk of cyber-attack.
+Cybersecurity is an ever-evolving aspect of any information technology strategy. While bringing important opportunities, the consolidation of systems leads to a greater attack surface that requires enhanced security measures to minimize risks. Inconsistent management of government networks and the security profiles of government endpoint devices – computer devices capable of connecting to the Internet – also has the potential to increase the risk of cyber-attack. 
+
+The Government of Canada is pleased to announce their support for the Linux Foundation's Core Infrastructure Initiative. This investment in maintaining a secure and open web is a core part of engaging with an open internet facing government. 
 
 
 ### The enterprise approach
 
-Sharing our infrastructure, and using common IT solutions to meet common needs, is one part of leveraging technology in a whole-of-government, or enterprise, approach, along with addressing security, privacy, accessibility, and open information requirements.
+Sharing our infrastructure, and using common IT solutions to meet common needs, is one part of leveraging technology in a whole-of-government, or enterprise, approach, along with addressing security, privacy, accessibility, and expectations of an open by default government.
 
-For IT users, it will be important to ensure a consistent end-user experience government-wide, regardless of geographical location. Issues of latency, bandwidth, security, infrastructure and other considerations need to be taken into account. As well, the complexity of IT-enabled projects is increasing as we move toward a more horizontal delivery model. Authoritative governance is needed to make enterprise decisions about IT investments.
+For IT users, it will be important to ensure a consistent end-user experience government-wide, regardless of geographical location. Issues of latency, bandwidth, security, infrastructure and other considerations need to be taken into account. As well, the complexity of IT-enabled projects is increasing as we move toward a more horizontal delivery model. Authoritative governance is needed to make decisions across the government enterprise about IT investments.
 
 
 ### Aging IT and sustainability
 
-There is a continued need to renew the government’s aging and mission critical IT infrastructure and systems that are at risk of breaking down. IT infrastructure transformation is proceeding slower than anticipated; complexity of the task has caused some delays and procurement is taking longer than planned. Funding pressures are arising, in part, from stronger than forecasted growth in demand. Chronic under investment puts the government’s ability to deliver some essential services to Canadians at risk. While progress has been made to rationalize applications, current system health indicators signal more work is needed to address this risk.
+There is a continued need to renew the government’s aging and mission critical IT infrastructure and systems that are at risk of breaking down. New approaches to address IT infrastructure transformation will be required because progress has been slower than anticipated. Government procurement is a major stumbling block in moving to an agile, cost-effective IT infrastrcture. We simply cannot afford to replace the existing legacy infrastructure with latest versions of proprietary approaches. The adoption of the internet has happened faster than government infrastructure has been able to adjust to it, yet fortunately we are able to leverage open tools that have been contributed by our allies in online communities like GitHub. By leveraging a broader governemnt community, the government will be able to overcome past shortfalls and ensure that no essential services to Canadians are at risk. The shift to open thinking, open governnent and open-source will require a significant culture change to ensure that it is succesful. 
 
 ## The Vision
 
-The provision of secure, agile and reliable IT services delivers improved productivity and streamlined, high quality government services that are simpler and easier to access, where and when our clients want them.
+The provision of secure, agile, open and reliable IT services delivers improved productivity and streamlined, high quality government services that are simpler and easier to access, where and when our clients want them.
 
 Aging IT risks have been reduced through the completion of the IT infrastructure transformation and implementation of models and processes to ensure sustainable funding to address IT renewal. IT platforms that are the backbone for information sharing, big data analytics and collaboration, enable the use of high quality government data to inform decisions and identify innovative approaches to public policy. The use of enabling technologies such as cloud computing and social media offer more ways to engage with Canadians and others.
 
 Through proactive measures, the government has reduced the threat surface of internet-connected networks and improved controls regarding access to government-held information. Enhancing government network and system security ensures that Canadians and others assessing online services can trust the government with their personal information.
 
-IT investment that is targeted at business priorities drives greater efficiency and encourages innovation by government and third parties. Better management of IT investment maximizes value and reduces service delivery costs, enabling the government to respond more rapidly to emerging issues.
+IT investment that is targeted at business priorities drives greater efficiency and encourages innovation by government and third parties. Better management of IT investment maximizes value and reduces service delivery costs, enabling the government to respond more rapidly to emerging issues. 
 
-The government is served by a high performing, strategically minded IT workforce who enjoy exciting career opportunities in the federal government. The Public Service is highly connected, and technology integrates seamlessly into daily work life. IT allows people to work smarter and solve problems more effectively by providing secure, agile and reliable systems and tools for information sharing, collaboration, and innovation.
+The Government of Canada will acknowledge it's role as Canada's single largest software development organization. Following the Source Code policy established in the USA, new custom code whose development is paid for by the government must be made available for reuse across government agencies.  Further to that, a portion of that new custom code must be released to the public as open-source software.
+
+The government is served by a high performing, strategically minded IT workforce who enjoy exciting career opportunities in the federal government. The Public Service is highly connected, and technology integrates seamlessly into daily work life. IT allows people to work smarter and solve problems more effectively by providing secure, agile and reliable systems and tools for sharing, collaboration, and innovation. Working with open communities, the public service can play an even stronger role in creating an innovative culture for the education sector, startups, and average citizens. 
 
 
 ## Mission Statement
 
-Federal information technology professionals are strategic partners within our organizations, providing excellence in IT services and delivering secure, reliable and agile technology. Working collaboratively with stakeholders and across government, our efforts add value in the workplace and contribute to better programs and services for Canadians.
+Federal information technology professionals are strategic partners within our organizations, providing excellence in IT services and delivering secure, reliable and agile technology. Working collaboratively with stakeholders and across government, our efforts add value in the workplace and contribute to better programs and services for Canadians. 
 
 
 ## Guiding Principles
@@ -154,15 +159,15 @@ The Government of Canada strives to be an innovative organization that provides 
 
 **Principle 2: Think “enterprise” first**
 
-Where an enterprise solution exists to meet a common business need, departments and agencies should stop investing in departmental legacy versions and refocus efforts, resources and funds on becoming ready to adopt the enterprise solution and on accelerating its delivery.
+Any successful enterprise requires a committment to open standards & common tools. Building collaboration across the enterprise and with open communities will ensure that user needs can be achieved which transcend the tools that are used to achieve that. Departments and agencies should stop investing in departmental legacy proprietary software and refocus efforts, resources and funds on becoming ready to adopt standard open tools which allow the enterprise to accelerate its delivery.
 
 **Principle 3: Use cloud computing services**
 
-Departments and agencies should explore Software as a Service (SaaS) cloud computing services before developing solutions in-house. Cloud computing services are to be procured through SSC, which will act as the Government of Canada’s cloud service broker.
+Departments and agencies should explore Software as a Service (SaaS) cloud computing services before developing solutions in-house. Cloud computing services must meet minimum security, backup and reliability standards, and preference should be given to an open stack solution to ensure transparency. 
 
 **Principle 4: Meet common business needs through shared solutions**
 
-Departments and agencies should actively seek out opportunities to pool resources inter-departmentally to address common business needs.
+Departments and agencies should actively seek out opportunities to pool resources and talent inter-departmentally as well as within open communities on the internet to address common business needs.
 
 **Principle 5: Examine options**
 
